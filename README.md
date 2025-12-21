@@ -41,7 +41,7 @@ We use the **LLMFake dataset** introduced by Chen & Shu (ICLR 2024).
 - Vicuna
 
 🔗 Dataset & Code:  
-https://github.com/llmmisinformation/llm-misinformation
+https://github.com/llm-misinformation/llm-misinformation
 
 ---
 

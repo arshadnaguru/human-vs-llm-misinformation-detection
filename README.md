@@ -69,5 +69,5 @@ detecting AI-generated misinformation remains challenging, especially for paraph
 ## 🚀 How to Run
 ```bash
 pip install -r requirements.txt
-python src/train_roberta.py
+python src/model_training.py
 
